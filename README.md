@@ -1,1 +1,1 @@
-This is an implementation code for how processor Algorithms work!
+This is an implementation code for how some processor Algorithms work!
